@@ -19,4 +19,5 @@ void showMenu()
 {
 	cout << "MENU: " << endl << endl;
 	cout << "\t0\tIZLAZ" << endl;
+	cout << "blablabla";
 }
