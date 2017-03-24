@@ -1,6 +1,6 @@
 // Games.cpp : Defines the entry point for the console application.
 //
-
+// eo promjene b00raz
 #include "stdafx.h"
 #include <iostream>
 
